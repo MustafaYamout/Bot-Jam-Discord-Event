@@ -1,7 +1,7 @@
 {
-    "token": "ODEzMjg4OTcxOTAzNTY1ODU1.YDNIYQ.8QcDg4QJ8vd2tofzzl66CTMYEYw",
-    "mainprefix": "c!",
-    "MongoURL": "mongodb+srv://MongoDBot:Qwertydude123456@cluster0.8glrw.mongodb.net/Cluster0?retryWrites=true&w=majority",
-    "Owner": "267299812339220480",
-    "clientid": "813288971903565855"
+    "token": "", // Bot Token here
+    "mainprefix": "", // Bot Prefix Here
+    "MongoURL": "", //MongoURLHere
+    "Owner": "", //Your or Someone's UserID here
+    "clientid": "" // Your bot client ID here
 }
