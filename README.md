@@ -1,5 +1,5 @@
 # Bot-Jam-Discord-Event
-Just a Repo for an Event called "Bot Jam" hosted by Swas on (The Coding Academy)[discord.gg/tca]
+Just a Repo for an Event called "Bot Jam" hosted by Swas on [The Coding Academy](https://discord.gg/tca)
 
 #### This is by far the worst bot Swas will ever see when he reviews it Lmao
 
