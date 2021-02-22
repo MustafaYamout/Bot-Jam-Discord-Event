@@ -1,0 +1,19 @@
+{
+  "name": "cryoptographicbot",
+  "version": "1.0.0",
+  "description": "Discord Bot For an Event Hosted by Swas.py :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zygote",
+  "license": "MIT",
+  "dependencies": {
+    "decode-encode-binary": "^1.0.3",
+    "discord.js": "^12.5.1",
+    "hex": "^0.1.0",
+    "image-decode": "^1.2.2",
+    "mongoose": "^5.11.15",
+    "node-encoder": "^2.0.2"
+  }
+}
