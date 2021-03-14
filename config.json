@@ -1,7 +1,7 @@
 {
-    "token": "", // Bot Token here
-    "mainprefix": "", // Bot Prefix Here
-    "MongoURL": "", // MongoURL Here
-    "Owner": "", //Your or Someone's UserID here
-    "clientid": "" // Your bot client ID here
+    "token": "", 
+    "mainprefix": "",
+    "MongoURL": "",
+    "Owner": "",
+    "clientid": ""
 }
