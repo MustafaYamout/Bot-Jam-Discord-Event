@@ -1,9 +1,16 @@
 # Bot-Jam-Discord-Event
 Just a Repo for an Event called "Bot Jam" hosted by Swas on [The Coding Academy](https://discord.gg/tca)
 
-#### This is by far the worst bot Swas will ever see when he reviews it Lmao
-
-I am too lazy and their is a higher chance i wont win so idc anymore lol
+# Commands
+This Discord bot has the following commands:
+> * Encodemorse 
+> * Decodemorse
+> * Encodebinary
+> * Decodebinary
+> * EncodeBase64
+> * DecodeBase64
+> * Setprefix
+> * eval (bot owner only)
 
 # Theme
 This bot mainly fits the theme of Cryptography which is the main theme of this bot jam.
